@@ -13,6 +13,11 @@ Running And Gate
 <img width="380" alt="Screenshot 2024-02-13 at 10 44 53 AM" src="And Gate Visualzation">
 <br/><br><br>
 <img width="543" alt="Screenshot 2024-02-13 at 10 45 29 AM" src="https://github.com/pjisiddhantsingh/HDL/assets/159141612/ae03a66f-28c5-4fed-af83-d738b78b037a">
+
+
 <img width="455" alt="Screenshot 2024-02-13 at 11 00 41 AM" src="https://github.com/pjisiddhantsingh/HDL/assets/159141612/8e723b41-505e-491e-93a3-bec2d86338e6">
+
+
 <img width="1136" alt="Screenshot 2024-02-13 at 11 00 15 AM" src="https://github.com/pjisiddhantsingh/HDL/assets/159141612/97eedc89-89c9-4f25-b208-232dad973768">
-<img width="393" alt="Screenshot 2024-02-13 at 11 01 45 AM" src="https://github.com/pjisiddhantsingh/HDL/assets/159141612/5050c433-2b0e-4129-afc1-50c16b7abbc9">
+
+<img width="554" alt="Screenshot 2024-02-13 at 11 00 26 AM" src="https://github.com/pjisiddhantsingh/HDL/assets/159141612/c0662da6-99f3-4d94-b1cd-7782f59a3117">
