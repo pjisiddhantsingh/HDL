@@ -36,5 +36,6 @@ Running And Gate
 <img width="810" alt="Screenshot 2024-02-16 at 9 54 13 AM" src="https://github.com/pjisiddhantsingh/HDL/assets/159141612/d18782de-baa3-4365-8516-74d6cc3c91b1">
 
 <img width="770" alt="Screenshot 2024-02-16 at 9 53 16 AM" src="https://github.com/pjisiddhantsingh/HDL/assets/159141612/a05ff190-89b8-4011-8bb4-f366f6333486">
+<img width="912" alt="Screenshot 2024-02-16 at 9 58 20 AM" src="https://github.com/pjisiddhantsingh/HDL/assets/159141612/e697ed43-1b1a-4279-9ddf-d9bb6f7abe54">
 
 
