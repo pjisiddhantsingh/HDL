@@ -29,4 +29,6 @@ Running And Gate
   <img width="388" alt="Screenshot 2024-02-14 at 3 02 47 PM" <img src="https://github.com/pjisiddhantsingh/HDL/assets/159141612/e9e29de5-fb61-4eeb-b336-5162c85f3c1b"><br><br>
 
 <img width="1329" alt="Screenshot 2024-02-14 at 3 03 14 PM" src="https://github.com/pjisiddhantsingh/HDL/assets/159141612/078da9f7-9659-43b3-b5fc-985647e2281b">
+<img width="810" alt="RAM 16K Visualize">
 
+<img width="808" alt="Screenshot 2024-02-16 at 9 54 33 AM" src="https://github.com/pjisiddhantsingh/HDL/assets/159141612/21c722ea-fc6b-45f2-a05f-98b36734fe4e">
