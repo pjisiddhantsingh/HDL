@@ -32,3 +32,9 @@ Running And Gate
 <img width="810" alt="RAM 16K Visualize">
 
 <img width="808" alt="Screenshot 2024-02-16 at 9 54 33 AM" src="https://github.com/pjisiddhantsingh/HDL/assets/159141612/21c722ea-fc6b-45f2-a05f-98b36734fe4e">
+
+<img width="810" alt="Screenshot 2024-02-16 at 9 54 13 AM" src="https://github.com/pjisiddhantsingh/HDL/assets/159141612/d18782de-baa3-4365-8516-74d6cc3c91b1">
+
+<img width="770" alt="Screenshot 2024-02-16 at 9 53 16 AM" src="https://github.com/pjisiddhantsingh/HDL/assets/159141612/a05ff190-89b8-4011-8bb4-f366f6333486">
+
+
