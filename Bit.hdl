@@ -1,0 +1,8 @@
+CHIP Bit {
+    IN in, load;
+    OUT out;
+
+    PARTS:
+	DFF(in=w2, out=out, out=w1);
+    Mux(a=w1, b=in, sel=load, out=w2);
+}
