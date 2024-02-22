@@ -16,6 +16,7 @@ Running And Gate
 
 
 <img width="455" alt="Screenshot 2024-02-13 at 11 00 41 AM" src="https://github.com/pjisiddhantsingh/HDL/assets/159141612/8e723b41-505e-491e-93a3-bec2d86338e6">
+<img width="1136" alt="Screenshot 2024-02-22 at 4 27 30 PM" src="https://github.com/pjisiddhantsingh/HDL/assets/159141612/66a951c0-a7f6-4b3b-bfd7-d16a0c7593b1">
 
 
 <img width="1136" alt="Screenshot 2024-02-13 at 11 00 15 AM" src="https://github.com/pjisiddhantsingh/HDL/assets/159141612/97eedc89-89c9-4f25-b208-232dad973768">
@@ -44,6 +45,8 @@ Running And Gate
 <img width="763" alt="Screenshot 2024-02-17 at 4 52 29 PM" src="https://github.com/pjisiddhantsingh/HDL/assets/159141612/3fb4fa2a-30b6-47ac-b764-478b5de017d6">
 
 
+<img width="1136" alt="Screenshot 2024-02-22 at 4 22 42 PM" src="https://github.com/pjisiddhantsingh/HDL/assets/159141612/47007141-696b-4e2a-9e4b-cef3c6df43ba">
+<img width="1136" alt="Screenshot 2024-02-22 at 4 13 00 PM" src="https://github.com/pjisiddhantsingh/HDL/assets/159141612/91c07d90-cf9a-4da7-9ab7-79cdfe07b9db">
 
 
 
