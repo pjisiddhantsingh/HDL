@@ -50,6 +50,8 @@ Running And Gate
 
 <img width="1136" alt="Screenshot 2024-02-27 at 2 43 22 PM" src="https://github.com/pjisiddhantsingh/HDL/assets/159141612/ae79cf40-07aa-4aec-8984-ddf2fc47aa75">
 
+<img width="1136" alt="Screenshot 2024-02-28 at 10 31 28 AM" src="https://github.com/pjisiddhantsingh/HDL/assets/159141612/2809da67-ac99-4376-9f52-de61eb717769">
+<img width="1136" alt="Screenshot 2024-02-28 at 10 34 09 AM" src="https://github.com/pjisiddhantsingh/HDL/assets/159141612/429d0ce8-9880-4599-92cb-a63335227c56">
 
 
 
